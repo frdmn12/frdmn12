@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/dyjrpqaUVqCELGuQVr/giphy.gif)
+
+
+I'm currently learning Rect Family like (React Native, Next js ...) and more about Backend database
 
 <!--
 **frdmn12/frdmn12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
