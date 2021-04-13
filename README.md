@@ -5,7 +5,7 @@
 
 🌱 I'm currently learning React Family like (React Native, Next js ...) and more about Backend database. Also for now i learn design start from Figma and Adobe XD
 
-### 📫 How to react me : 
+### 📫 How to reach me : 
 - Email : bayu.maincontact@gmail.com
 
 
