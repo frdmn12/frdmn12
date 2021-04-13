@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 <!--
 **frdmn12/frdmn12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
