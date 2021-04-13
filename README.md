@@ -3,7 +3,11 @@
 ![Alt Text](https://media.giphy.com/media/dyjrpqaUVqCELGuQVr/giphy.gif)
 
 
-I'm currently learning Rect Family like (React Native, Next js ...) and more about Backend database
+🌱 I'm currently learning React Family like (React Native, Next js ...) and more about Backend database. Also for now i learn design start from Figma and Adobe XD
+
+### 📫 How to react me : 
+- Email : bayu.maincontact@gmail.com
+
 
 <!--
 **frdmn12/frdmn12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
