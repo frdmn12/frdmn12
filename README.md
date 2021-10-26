@@ -1,7 +1,7 @@
-<!-- ## Hi there 👋 -->
+## Hello there 👋
 
-![Alt Text](https://media.giphy.com/media/13Uqp5IGFpmDle/giphy.gif)
-<!-- ![Alt Text](https://media.giphy.com/media/l3vRk0G0gLp2EQGoE/giphy.gif) -->
+<!-- ![Alt Text](https://media.giphy.com/media/13Uqp5IGFpmDle/giphy.gif) -->
+![Alt Text](https://media.giphy.com/media/12mRllHWXpt4M8/giphy.gif)
 
 
 <!-- 🌱 I'm currently learning React Family like (React Native, Next js ...) and more about Backend database. Also for now i learn design start from Figma and Adobe XD
