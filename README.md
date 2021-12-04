@@ -6,7 +6,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frdmn12&theme=dark)](https://git.io/streak-stats)
 ======
 - 🔭 I’m currently studying Computer Science at Binus University located in Indonesia
-- 🌱 I’m currently learning Web & Mobilde Development, Data Science, UI UX
+- 🌱 I’m currently learning Web & Mobile Development, Data Science, UI UX
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/bayu-ferdiman)
 
 
