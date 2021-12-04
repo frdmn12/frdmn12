@@ -7,7 +7,7 @@
 ======
 - 🔭 I’m currently studying Computer Science at Binus University located in Indonesia
 - 🌱 I’m currently learning Web & Mobilde Development, Data Science, UI UX
-- 📫 Reach me on [Linkedin](linkedin.com/in/bayu-ferdiman)
+- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/bayu-ferdiman)
 
 
 
