@@ -4,14 +4,12 @@
 ![Alt Text](https://media.giphy.com/media/12mRllHWXpt4M8/giphy.gif)
 ======
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frdmn12&theme=dark)](https://git.io/streak-stats)
+======
+- 🔭 I’m currently studying Computer Science at Binus University located in Indonesia
+- 🌱 I’m currently learning Web & Mobilde Development, Data Science, UI UX
+- 📫 Reach me on [![Linkedin](https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw)](linkedin.com/in/bayu-ferdiman)
 
 
-
-<!-- 🌱 I'm currently learning React Family like (React Native, Next js ...) and more about Backend database. Also for now i learn design start from Figma and Adobe XD
-
-### 📫 How to reach me : 
-- Email : bayu.maincontact@gmail.com
- -->
 
 <!--
 **frdmn12/frdmn12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
