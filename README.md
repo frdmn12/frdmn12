@@ -2,6 +2,7 @@
 
 <!-- ![Alt Text](https://media.giphy.com/media/13Uqp5IGFpmDle/giphy.gif) -->
 ![Alt Text](https://media.giphy.com/media/12mRllHWXpt4M8/giphy.gif)
+======
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frdmn12)](https://git.io/streak-stats)
 
 
