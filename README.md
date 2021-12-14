@@ -15,14 +15,14 @@ I'm Bayu.....
 ## Profile stats 📊
 
 <div align="center">
-    <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=frdmn12&theme=dark">
+    <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=frdmn12&theme=dark">
 </div>
 <div align="center">
-    <img width="500" src="https://github-readme-stats.vercel.app/api?username=frdmn12&theme=dark">
+    <img width="450" src="https://github-readme-stats.vercel.app/api?username=frdmn12&theme=dark">
     
 </div>
 <div align="center">
-    <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frdmn12&layout=compact&theme=dark">
+    <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frdmn12&layout=compact&theme=dark">
 </div>
 
 --------
