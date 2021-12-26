@@ -7,7 +7,7 @@
 
 I'm Bayu.....
 
-- 🔭 currently studying Computer Science at Binus University located in Indonesia
+- 🔭 currently studying Computer Science (First Year) at Binus University located in Indonesia
 - 🌱 currently learning Web & Mobile Development, UI UX
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/bayu-ferdiman), [Behance](https://www.behance.net/bayuferdiman)
 
