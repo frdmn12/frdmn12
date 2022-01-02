@@ -1,11 +1,11 @@
-## Hello there 👋
+# Hello there 👋
 
 
 <p align="center">
   <img width="400" src="https://media.giphy.com/media/12mRllHWXpt4M8/giphy.gif">
 </p>
 
-I'm Bayu.....
+## I'm Bayu.....
 
 - 🔭 currently studying Computer Science (First Year) at Binus University located in Indonesia
 - 🌱 currently learning Web & Mobile Development, UI UX
