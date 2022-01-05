@@ -9,7 +9,8 @@
 
 - 🔭 currently studying Computer Science (First Year) at Binus University located in Indonesia
 - 🌱 currently learning Web & Mobile Development, UI UX
-- 📫 Reach me on....
+
+### 📫 Reach me on....
 
 <a href="https://www.linkedin.com/in/bayu-ferdiman">
    <img width=30 src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=2159024400&v=beta&t=dpaLynvZ2NeUb2hNZNXCWDXJ1R-2LkkQ-rMrfhWvNvs"/>
