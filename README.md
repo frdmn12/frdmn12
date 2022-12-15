@@ -7,8 +7,8 @@
 
 ### I'm Bayu.....
 
-- 🔭 currently studying Computer Science (First Year) at Binus University located in Indonesia
-- 🌱 currently learning Web & Mobile Development, UI UX
+- 🔭 currently studying Computer Science (Second Year) at Binus University located in Indonesia
+- 🌱 interest on Web & Mobile Development, UI UX
 
 ### 📫 Reach me on....
 
