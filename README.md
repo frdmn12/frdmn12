@@ -1,11 +1,9 @@
 # Hello there 👋
-
-
 <p align="center">
   <img width="400" src="https://media.giphy.com/media/12mRllHWXpt4M8/giphy.gif">
 </p>
 
-### I'm Bayu.....
+### 🤖 I'm Bayu.....
 
 - 🔭 currently studying Computer Science (Second Year) at Binus University located in Indonesia
 - 🌱 interest on Web & Mobile Development, UI UX
@@ -20,15 +18,13 @@
 </a>
 <!-- - [Linkedin](https://www.linkedin.com/in/bayu-ferdiman), [Behance](https://www.behance.net/bayuferdiman) -->
 
+-----
 
-## Profile stats 📊
+### 📊 Profile stats 
+<div align="left">
+  <img width= "400" src="https://github-readme-stats.vercel.app/api?username=frdmn12&show_icons=true&theme=shades-of-purple">
+ </div>
+ <div align="left">
+  <img width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=frdmn12&layout=compact&theme=shades-of-purple">
 
-<div align="center">
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=frdmn12&theme=dark">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=frdmn12&theme=dark">
-</div>
-<div align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frdmn12&layout=compact&theme=dark">
-</div>
-
---------
+  </div>
