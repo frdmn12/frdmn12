@@ -13,7 +13,7 @@
 -----
 
 ### 📊 Profile stats 
-<div align="center">
+<div align="left">
   <img width= "440" src="https://github-readme-stats.vercel.app/api?username=frdmn12&show_icons=true&theme=shades-of-purple">
  </div>
  <div align="center">
