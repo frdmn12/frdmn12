@@ -16,8 +16,11 @@
 <div align="left">
   <img width= "440" src="https://github-readme-stats.vercel.app/api?username=frdmn12&show_icons=true&theme=shades-of-purple">
  </div>
- <div align="center">
+ <div align="left">
   <img width="415"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=frdmn12&layout=compact&theme=shades-of-purple">
+  
+  </div>
+  <div align="left">
    <img src="https://streak-stats.demolab.com?user=frdmn12&theme=shades-of-purple">
   </div>
   
