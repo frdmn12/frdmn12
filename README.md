@@ -39,6 +39,13 @@
     <a href="https://twitter.com/frdmn12" target="_blank">
       <img  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
+    <!--  Dribble -->
+<!--     <a href="https://twitter.com/frdmn12" target="_blank">
+      <img  src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>
+    </a> -->
+    <a href="mailto:bayu.ferdiman@binus.ac.id?subject=Work">
+      <img  src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+    </a>
   </div>
 </details>
 
