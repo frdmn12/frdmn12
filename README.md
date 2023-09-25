@@ -36,10 +36,6 @@
     <a href="https://www.instagram.com/frdmn12/" target="_blank">
       <img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
-    <a href="https://twitter.com/frdmn12" target="_blank">
-      <img  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-    </a>
-    <!--  Dribble -->
     <a href="https://dribbble.com/bayuferdiman" target="_blank">
       <img  src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>
     </a>
