@@ -20,7 +20,17 @@
    <div align="center">
     <img width="420"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=frdmn12&layout=compact&theme=shades-of-purple">
    </div>
+
+<p align="center">
+  <img src="https://github.r2v.ch/codewars?user=cocainepain&stroke=%23BB432C" alt="Codewars">
+</p>
+
 </details>
+
+
+
+
+
 
 ---
 
