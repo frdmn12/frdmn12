@@ -22,7 +22,7 @@
    </div>
 
 <p align="center">
-  <img src="https://github.r2v.ch/codewars?user=cocainepain&stroke=%23BB432C" alt="Codewars">
+  <img src="https://github.r2v.ch/codewars?user=frdmn12&stroke=%23BB432C" alt="Codewars">
 </p>
 
 </details>
