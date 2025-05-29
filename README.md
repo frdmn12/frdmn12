@@ -14,7 +14,7 @@
   <summary> <h2>📊 Profile stats</h2></summary>
    <div align="center" display="flex">
     <img width="423" src="https://github-readme-stats.vercel.app/api?username=frdmn12&show_icons=true&theme=shades-of-purple">
-<!--     <img width="450" src="https://streak-stats.demolab.com?user=frdmn12&theme=shades-of-purple"> -->
+    <img width="450" src="https://streak-stats.demolab.com?user=frdmn12&theme=shades-of-purple">
    </div>
   
    <div align="center">
