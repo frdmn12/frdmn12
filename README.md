@@ -5,7 +5,7 @@
 
 ## 🤖 I'm Bayu.....
 
-- 🔭 currently studying Computer Science (Final Year) at Binus University located in Indonesia
+- 🔭 currently working as fullstack web developer in Indonesia
 - 🌱 interest on Fullstack Development & UI UX Design
 
 
